@@ -1,0 +1,225 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Round off 78 to the nearest tens.",
+        "options": [
+            "70",
+            "80",
+            "90",
+            "60"
+        ],
+        "correct": 1,
+        "secondImg":"./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Use the given number line to round 147 to its nearest tens.",
+        "options": [
+            "140",
+            "150",
+            "100",
+            "170"
+        ],
+        "correct": 1,
+        "secondImg":"./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Round off 150 to its nearest hundred with the help of a number line.",
+        "options": [
+            "160",
+            "100",
+            "200",
+            "140"
+        ],
+        "correct": 2,
+        "secondImg":"./assests/images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Help Rob round off the number 236 to the nearest hundreds.",
+        "options": [
+            "230",
+            "300",
+            "330",
+            "200"
+        ],
+        "correct": 3,
+        "secondImg":"./assests/images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Rob found 2,459 coins in a carton while decorating the gallery. The coins rounded to their nearest hundreds would be____.",
+        "options": [
+            "2,400",
+            "2,000",
+            "2,500",
+            "3,000"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "An antique stone piece in the gift gallery costs 1,128$. With the help of the place value method, round off the cost of the antique stone piece to the nearest thousand.",
+        "options": [
+            "1,100",
+            "1,000",
+            "1,120",
+            "2,000"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7",
+        "question": "When 2,346 is rounded off to thousands.<br><br>Rob says its 2000.<br>Bob says its 3000.",
+        "options": [
+            "Rob is correct",
+            "Bob is correct",
+            "Both are correct"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Estimate the refreshment lunch for 6,112 guests to the nearest thousand and 24 staff members to the nearest tens for the opening day of the gallery.",
+        "options": [
+            "6,000",
+            "20",
+            "6,020",
+            "6,200"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "One of Rob’s friends is a florist. He is making a bouquet for the opening day. If he used 15 white roses, 21 lilies, 9 tulips and 14 orchids. About how many flowers he used to make the bouquet? (Round off to the nearest tens)",
+        "options": [
+            "60",
+            "50",
+            "40",
+            "70"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Rob bought 556 balloons for decorating the gallery. Out of which 235 balloons were found to be defective. Estimate the number of balloons left to use with Rob by rounding off to the nearest hundred using a number line.",
+        "options": [
+            "500",
+            "200",
+            "400",
+            "300"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Two of Rob’s friends painted the gallery’s walls. If one of them painted 17 walls out of 32, estimate how many the other one painted by rounding off to the nearest tens using the place value method.",
+        "options": [
+            "30",
+            "20",
+            "40",
+            "10"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q12",
+        "question": "On Monday, Rob spent 456 minutes working in the gallery and on Tuesday, he spent only 234 minutes. About how many fewer minutes did he spend on Tuesday as compared to Monday? Estimate by rounding off to the nearest hundreds.",
+        "options": [
+            "500",
+            "300",
+            "400",
+            "200"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Rob bought an art piece for 5,845$ for the art gallery and is planning to sell it for 4,326$. Use estimation by rounding off to the nearest thousand by place value to calculate the money he will lose.",
+        "options": [
+            "3,000",
+            "4,000",
+            "5,000",
+            "2,000"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Help Rob to estimate the number of ceiling lights (to the nearest tens) to be installed on 7 ceilings if he bought 53 lights for one ceiling.",
+        "options": [
+            "530",
+            "500",
+            "350",
+            "300"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Rob and his friends have been working in the gallery for 5 days. About how many hours did they work for? (Round to the nearest hundreds)",
+        "options": [
+            "100",
+            "200",
+            "300",
+            "400"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16",
+        "question": "Each of Rob’s friends contributed 7,629$ for the gift gallery’s decoration. If there were 4 friends, estimate the amount Rob had for the decoration of his gallery.<br> (Round off to the nearest thousand)",
+        "options": [
+            "7,000$",
+            "32,000$",
+            "4,000$",
+            "27,000$"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Help Rob use the number line to round the price of a painting to its nearest thousand. If the cost of 1 painting was 9,122$, What would be the cost of 9 paintings?",
+        "options": [
+            "81,000$",
+            "8,000$",
+            "10,000$",
+            "100,000$"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Rob’s three friends divided the 64$ among themselves which they got after selling the waste materials left in the gallery. About how much money each of them got? Round off to the nearest tens on the number line.",
+        "options": [
+            "60$",
+            "30$",
+            "10$",
+            "20$"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q19",
+        "question": "722 shelves were installed all around the gallery’s walls. If one row had 7 shelves, calculate the approximate number of shelves in each row by rounding off to the nearest hundred.",
+        "options": [
+            "300",
+            "700",
+            "100",
+            "200"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20",
+        "question": "Rob prepared 6 boxes of treats for children for the opening day. If there are 2,818 treats in total, estimate the number of treats each box contains by rounding off to the nearest thousand using the place value method.",
+        "options": [
+            "2,000",
+            "600",
+            "500",
+            "800"
+        ],
+        "correct": 2
+    }
+]
